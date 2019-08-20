@@ -3,11 +3,15 @@ A React based personal portfolio app using create-react-app and React Router.
 
 ## Screenshots
 
-![Alt text](/1.png?raw=true "Dashboard")
+![Alt text](/1.png?raw=true "")
 
-![Alt text](/2.png?raw=true "Employees mangement")
+![Alt text](/2.png?raw=true "")
 
-![Alt text](/3.png?raw=true "User mangement")
+![Alt text](/3.png?raw=true "")
+
+![Alt text](/4.png?raw=true "")
+
+![Alt text](/5.png?raw=true "")
 
 # Tools
 * create-react-app cli
